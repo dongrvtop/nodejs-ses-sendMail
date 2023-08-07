@@ -45,5 +45,5 @@ const sendEmail = async (recipientEmail, name) => {
   }
 }
 
-sendEmail("webwizard0808@gmail.com", "Web Wizard");
+sendEmail("hiepthanhts@gmail.com", "Duy Dong");
 
